@@ -8,6 +8,3 @@
 test
 </p>
 <a href="#">ne link </a>
-
-
-> Written with [StackEdit](https://stackedit.io/).
