@@ -1,0 +1,11 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "<h1>test</h1> <h2>test</h2> <ul> <li>test <li>test </ul> <p> test </p> <a href=\"#\">ne link </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
